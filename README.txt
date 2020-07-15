@@ -1,4 +1,4 @@
-Sudoku Solver is an Android Studio project written in Java and XML which can solve any solvable Sudoku game with the help of "Recursive Backtracking" algorithm.
+Sudoku Solver is an Android Studio project written in Java and XML which can solve any Sudoku game with the help of "Recursive Backtracking" algorithm.
 Capture files displays how the app looks on Google Pixel 2.
 
 Following are the most important files of the project:
